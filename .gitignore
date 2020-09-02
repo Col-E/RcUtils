@@ -1,0 +1,18 @@
+.metadata/**
+.recommenders/**
+.settings/**
+bin/**
+target/**
+
+.classpath
+.project
+maven.build.log
+
+# IntelliJ IDEA Project stuff
+.idea/
+out/
+*.iws
+*.iml
+*___jb_*___
+/target/
+/bin/
